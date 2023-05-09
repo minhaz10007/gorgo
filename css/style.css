@@ -117,6 +117,9 @@ header{
 	width: 65%;
 	text-align: center;
 }
+.f_text p{
+	padding: 10px 0;
+}
 .f_left{
 	overflow: hidden;
 }
@@ -126,7 +129,6 @@ header{
 	width: 29%;
 	float: left;
 	background-color: #f5f5f5;
-/*	border: 1px solid black;*/
 }
 .f_box1 img, .f_box2 img, .f_box3 img, .f_box4 img, .f_box5 img, .f_box6 img{
 	padding: 15px 0;
